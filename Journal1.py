@@ -1,0 +1,1 @@
+print("My name is Wyatt Berson\nMy favorite movie is Venom\nMy favorite Food is cereal")
